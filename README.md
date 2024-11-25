@@ -45,6 +45,10 @@ Este repositório contém um notebook de análise climática baseado no conjunto
 ## Conclusões
 Este projeto oferece uma visão detalhada das mudanças climáticas globais, com foco no Brasil. A análise das temperaturas médias, precipitação, umidade e vento permite uma compreensão dos padrões climáticos e suas variações sazonais, destacando as tendências de mudança climática, especialmente na América do Sul.
 
+Link colab: [colab](https://colab.research.google.com/drive/1Jbh3efZ81JUW4IeD3SODMG0JrqGqJzD1?usp=drive_link)
+
+link Looker Studio: [Looker Studio](https://lookerstudio.google.com/reporting/251c1728-a207-4034-b74a-8528443936ea)
+
 ![image](https://github.com/user-attachments/assets/e4b04584-c454-4a1d-b5ef-f1ab84749819)
 
 
