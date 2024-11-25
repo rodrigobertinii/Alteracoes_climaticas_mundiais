@@ -1,4 +1,6 @@
-# Análise Climática Global com Foco no Brasil
+# Análise Climática Global com Foco no Brasil ![image](https://github.com/user-attachments/assets/c26c06f1-a1e7-44cd-a562-3ec66ba502de)
+
+
 
 Este repositório contém um notebook de análise climática baseado no conjunto de dados **Global Weather Repository** disponível no [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository). O objetivo principal foi analisar as tendências climáticas globais, com ênfase especial nos dados do **Brasil**.
 
@@ -42,3 +44,7 @@ Este repositório contém um notebook de análise climática baseado no conjunto
 
 ## Conclusões
 Este projeto oferece uma visão detalhada das mudanças climáticas globais, com foco no Brasil. A análise das temperaturas médias, precipitação, umidade e vento permite uma compreensão dos padrões climáticos e suas variações sazonais, destacando as tendências de mudança climática, especialmente na América do Sul.
+
+![image](https://github.com/user-attachments/assets/e4b04584-c454-4a1d-b5ef-f1ab84749819)
+
+
